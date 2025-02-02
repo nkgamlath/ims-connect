@@ -55,6 +55,7 @@ import { ProjectsPage } from "../pages/ProjectsPage";
 import { DashboardPage } from "../pages/DashboardPage";
 import { IdeasPage } from "../pages/IdeasPage";
 import { UsersPage } from "../pages/UsersPage";
+import { RewardsPage } from "../pages/RewardsPage";
 
 const AppRoutes = () => {
     return (
@@ -64,6 +65,7 @@ const AppRoutes = () => {
                 <Route path="/ideas" element={<IdeasPage />} />
                 <Route path="/users" element={<UsersPage />} />
                 <Route path="/projects" element={<ProjectsPage />} />
+                <Route path="/rewards" element={<RewardsPage />} />
             </Route>
            
             
