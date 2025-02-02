@@ -1,0 +1,40 @@
+[
+    {
+        "header": "",
+        "items": [
+            {
+                "text": "Dashboard",
+                "icon": "bx bx-home",
+                "available": true,
+                "link": "/"
+            },
+            {
+                "text": "Ideas",
+                "icon": "bx bx-bulb",
+                "available": true,
+                "link": "/ideas"
+
+            },
+            {
+                "text": "Projects",
+                "icon": "bx bx-folder",
+                "available": true,      
+                "link": "/projects"
+
+            },
+            {
+                "text": "Rewards",
+                "icon": "bx bx-award",
+                "available": true,
+                "link": "/rewards"
+
+            },
+            {
+                "text": "User Management",
+                "icon": "bx bx-user",
+                "available": true,
+                "link": "/users"
+            }
+        ]
+    }
+]
